@@ -5,7 +5,7 @@ function Logo() {
   return (
     <Link to="/">
       <img
-        src="../src/public/logo.png"
+        src="/logo.png"
         alt="WorldWise logo"
         className={styles.logo}
       />
